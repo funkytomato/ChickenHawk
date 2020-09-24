@@ -12794,3 +12794,15 @@ Content/GameSoundCollection/Alarm/Cue/ALARM_FUTURE_FACTORY_01_Cue.uasset
 Content/GameSoundCollection/Alarm/_DS_Store
 Content/GameSoundCollection/_DS_Store
 Content/.DS_Store
+Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset
+Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset
+Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset
+Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset
+Content/ThirdPerson/Meshes/RampMaterial.uasset
+Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset
+Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+Content/ThirdPersonBP/ThirdPersonOverview.uasset
+Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+Content/ThirdPersonBP/ThirdPersonOverview.uasset
